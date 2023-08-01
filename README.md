@@ -1,3 +1,3 @@
-# Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
+Web3 Crowdfunding Platform
 ![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
 
